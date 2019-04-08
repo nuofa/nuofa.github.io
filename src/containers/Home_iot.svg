@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 512 512.00002"
+   version="1.1"
+   sodipodi:docname="Home_iot.svg"
+   width="512"
+   height="512"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:export-filename="home_iot.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <metadata
+     id="metadata1756">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>DigitalServices_IoT</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1131"
+     inkscape:window-height="648"
+     id="namedview1754"
+     showgrid="false"
+     inkscape:zoom="0.80030912"
+     inkscape:cx="348.11596"
+     inkscape:cy="266.05661"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#595651;}.cls-14,.cls-2,.cls-296,.cls-3{fill:none;}.cls-2,.cls-3{stroke:#ddd;}.cls-2,.cls-296,.cls-3{stroke-miterlimit:10;stroke-width:2px;}.cls-3{stroke-dasharray:12 12;}.cls-4{fill:#c1c1c1;}.cls-5,.cls-7{fill:#fff;}.cls-5{opacity:0.79;}.cls-6{opacity:0.9;}.cls-8{fill:#231f20;}.cls-9{fill:#020202;}.cls-10{fill:#211f1f;}.cls-11{fill:#f5ad41;}.cls-12{fill:#956128;}.cls-13{fill:#f15625;}.cls-14{stroke:#020202;stroke-width:1.99px;}.cls-15{fill:#1cabe1;}.cls-16{fill:#98c23d;}.cls-17{fill:#21a94b;}.cls-18{fill:#20a9da;}.cls-19{fill:#69c6ea;}.cls-20{fill:#148fcc;}.cls-21{fill:#99c23e;}.cls-22{fill:#6ac6e9;}.cls-23{fill:#cdd42b;}.cls-24{fill:#39ac4a;}.cls-25{fill:#22a4dc;}.cls-26{fill:#3ebde6;}.cls-27{fill:#b9cd33;}.cls-28{fill:#3ebde7;}.cls-29{fill:#1c90cc;}.cls-30{fill:#2aa5d9;}.cls-31{fill:#23a94b;}.cls-32{fill:#38ac4a;}.cls-33{fill:#20a4dc;}.cls-34{fill:#cdd42e;}.cls-35{fill:#43ac4d;}.cls-36{fill:#097db4;}.cls-37{fill:#48ab4e;}.cls-38{fill:#8ab340;}.cls-39{fill:#d8e3bd;}.cls-40{fill:#0576aa;}.cls-41{fill:#2690ca;}.cls-42{fill:#32a1c6;}.cls-43{fill:#319cc0;}.cls-44{fill:#32a9db;}.cls-45{fill:#89b240;}.cls-46{fill:#098fc2;}.cls-47{fill:#97ac3d;}.cls-48{fill:#81a841;}.cls-49{fill:#a7b239;}.cls-50{fill:#61b5d7;}.cls-51{fill:#5baacb;}.cls-52{fill:#61b2d1;}.cls-53{fill:#9dc346;}.cls-54{fill:#9ca83d;}.cls-55{fill:#83a940;}.cls-56{fill:#41ac59;}.cls-57{fill:#1085b7;}.cls-58{fill:#92a658;}.cls-59{fill:#ccd42b;}.cls-60{fill:#a0c445;}.cls-61{fill:#2c9245;}.cls-62{fill:#c4cd30;}.cls-63{fill:#239046;}.cls-64{fill:#229c48;}.cls-65{fill:#9fab39;}.cls-66{fill:#e3e8c7;}.cls-67{fill:#ced983;}.cls-68{fill:#1e90cb;}.cls-69{fill:#b3bd36;}.cls-70{fill:#35a7cc;}.cls-71{fill:#2f9abd;}.cls-72{fill:#349a47;}.cls-73{fill:#2891c6;}.cls-74{fill:#ccd333;}.cls-75{fill:#b7cc36;}.cls-76{fill:#319245;}.cls-77{fill:#b5ca46;}.cls-78{fill:#9fc446;}.cls-79{fill:#2ea490;}.cls-80{fill:#33a3cd;}.cls-81{fill:#077bb1;}.cls-82{fill:#219047;}.cls-83{fill:#98c23f;}.cls-84{fill:#65bcde;}.cls-85{fill:#239449;}.cls-86{fill:#1680b7;}.cls-87{fill:#34abda;}.cls-88{fill:#3bbde8;}.cls-89{fill:#1ea4dc;}.cls-90{fill:#25a4db;}.cls-91{fill:#3fbde7;}.cls-92{fill:#3aac4b;}.cls-93{fill:#138ac5;}.cls-94{fill:#9cc449;}.cls-95{fill:#47b9e0;}.cls-96{fill:#218fca;}.cls-97{fill:#2ba84c;}.cls-98{fill:#2dacdd;}.cls-99{fill:#70c6e7;}.cls-100{fill:#92bc3f;}.cls-101{fill:#3f909c;}.cls-102{fill:#2290ca;}.cls-103{fill:#65bbde;}.cls-104{fill:#359747;}.cls-105{fill:#349747;}.cls-106{fill:#2ea94d;}.cls-107{fill:#89b242;}.cls-108{fill:#88b141;}.cls-109{fill:#7da440;}.cls-110{fill:#50aa5f;}.cls-111{fill:#4597c1;}.cls-112{fill:#1a8fcc;}.cls-113{fill:#3bbae3;}.cls-114{fill:#1f91cb;}.cls-115{fill:#c2cb31;}.cls-116{fill:#70c5e3;}.cls-117{fill:#37acd3;}.cls-118{fill:#3aa34a;}.cls-119{fill:#acc238;}.cls-120{fill:#9fb43b;}.cls-121{fill:#35abd1;}.cls-122{fill:#3ab6dc;}.cls-123{fill:#bbce3d;}.cls-124{fill:#3ab4db;}.cls-125{fill:#35a8cf;}.cls-126{fill:#8bb43f;}.cls-127{fill:#34a2c7;}.cls-128{fill:#c2d359;}.cls-129{fill:#c9d66e;}.cls-130{fill:#0f89c5;}.cls-131{fill:#1083bd;}.cls-132{fill:#51ac79;}.cls-133{fill:#b5daeb;}.cls-134{fill:#d2dea9;}.cls-135{fill:#aab437;}.cls-136{fill:#b6bf35;}.cls-137{fill:#c3cb30;}.cls-138{fill:#55b054;}.cls-139{fill:#99c23d;}.cls-140{fill:#26a34a;}.cls-141{fill:#138fcd;}.cls-142{fill:#0b7db5;}.cls-143{fill:#27acde;}.cls-144{fill:#0e85c0;}.cls-145{fill:#7ab990;}.cls-146{fill:#22a4db;}.cls-147{fill:#b5cb49;}.cls-148{fill:#0d84bf;}.cls-149{fill:#b8d9bd;}.cls-150{fill:#b8cd34;}.cls-151{fill:#37a349;}.cls-152{fill:#a5ba3a;}.cls-153{fill:#d9de7f;}.cls-154{fill:#acc53a;}.cls-155{fill:#2290cb;}.cls-156{fill:#93bc3f;}.cls-157{fill:#2ba5d9;}.cls-158{fill:#8db640;}.cls-159{fill:#82a841;}.cls-160{fill:#66bee1;}.cls-161{fill:#b4bd36;}.cls-162{fill:#c1ca31;}.cls-163{fill:#9bc344;}.cls-164{fill:#199bd1;}.cls-165{fill:#b5dbeb;}.cls-166{fill:#99c241;}.cls-167{fill:#a2d3e8;}.cls-168{fill:#8ecce5;}.cls-169{fill:#bfd385;}.cls-170{fill:#20aa4b;}.cls-171{fill:#99c23f;}.cls-172{fill:#1187c1;}.cls-173{fill:#72c5e4;}.cls-174{fill:#a1cace;}.cls-175{fill:#38a549;}.cls-176{fill:#3ca8d8;}.cls-177{fill:#35a6d8;}.cls-178{fill:#4ebee2;}.cls-179{fill:#c8dba7;}.cls-180{fill:#249849;}.cls-181{fill:#26a24a;}.cls-182{fill:#3bb1d8;}.cls-183{fill:#3cb8e0;}.cls-184{fill:#bbce4e;}.cls-185{fill:#32a1c5;}.cls-186{fill:#2aa6da;}.cls-187{fill:#71c5e6;}.cls-188{fill:#209a49;}.cls-189{fill:#7ec8e6;}.cls-190{fill:#91cee8;}.cls-191{fill:#9cc34f;}.cls-192{fill:#62c0e0;}.cls-193{fill:#7ac6df;}.cls-194{fill:#239b49;}.cls-195{fill:#3ab3db;}.cls-196{fill:#38a6c9;}.cls-197{fill:#38a9cf;}.cls-198{fill:#1099d0;}.cls-199{fill:#92bb3f;}.cls-200{fill:#5aa9c7;}.cls-201{fill:#9baf3b;}.cls-202{fill:#3eb5da;}.cls-203{fill:#7da53f;}.cls-204{fill:#208bb6;}.cls-205{fill:#2c92c4;}.cls-206{fill:#64a4b0;}.cls-207{fill:#e1e4aa;}.cls-208{fill:#cee0bb;}.cls-209{fill:#a6bb3a;}.cls-210{fill:#83aa3f;}.cls-211{fill:#0a73a5;}.cls-212{fill:#0679b0;}.cls-213{fill:#7ca23f;}.cls-214{fill:#29a84d;}.cls-215{fill:#76993e;}.cls-216{fill:#1d8bc0;}.cls-217{fill:#b9cd3d;}.cls-218{fill:#acc139;}.cls-219{fill:#47bce2;}.cls-220{fill:#ced97e;}.cls-221{fill:#64b15c;}.cls-222{fill:#d4e0bf;}.cls-223{fill:#e5e59d;}.cls-224{fill:#779c3f;}.cls-225{fill:#86ad40;}.cls-226{fill:#3fac4c;}.cls-227{fill:#149dd2;}.cls-228{fill:#59ab63;}.cls-229{fill:#a2c553;}.cls-230{fill:#51ac6e;}.cls-231{fill:#49bcd1;}.cls-232{fill:#cdd436;}.cls-233{fill:#42ab52;}.cls-234{fill:#a2c454;}.cls-235{fill:#4ba98d;}.cls-236{fill:#3bac4b;}.cls-237{fill:#2aa84c;}.cls-238{fill:#0e81bb;}.cls-239{fill:#2ba84d;}.cls-240{fill:#74c5e5;}.cls-241{fill:#2f9146;}.cls-242{fill:#13a0d8;}.cls-243{fill:#35a049;}.cls-244{fill:#319649;}.cls-245{fill:#33addd;}.cls-246{fill:#a6d5e9;}.cls-247{fill:#39a44a;}.cls-248{fill:#5dafd0;}.cls-249{fill:#42a957;}.cls-250{fill:#44a678;}.cls-251{fill:#68b371;}.cls-252{fill:#25a3d9;}.cls-253{fill:#66bddf;}.cls-254{fill:#6cc6e8;}.cls-255{fill:#e0e3a8;}.cls-256{fill:#b1c637;}.cls-257{fill:#2da4da;}.cls-258{fill:#309a47;}.cls-259{fill:#dee297;}.cls-260{fill:#dbdf85;}.cls-261{fill:#97c13d;}.cls-262{fill:#8cb440;}.cls-263{fill:#e2e8c1;}.cls-264{fill:#dae2ae;}.cls-265{fill:#a4d4eb;}.cls-266{fill:#4abce3;}.cls-267{fill:#3ea8d7;}.cls-268{fill:#b1cc72;}.cls-269{fill:#9ac341;}.cls-270{fill:#61b2d3;}.cls-271{fill:#93bd3f;}.cls-272{fill:#49bde4;}.cls-273{fill:#adc439;}.cls-274{fill:#d5dd98;}.cls-275{fill:#88cce7;}.cls-276{fill:#e7ebce;}.cls-277{fill:#259b75;}.cls-278{fill:#91ba3f;}.cls-279{fill:#d6db62;}.cls-280{fill:#dbdf87;}.cls-281{fill:#d1d752;}.cls-282{fill:#e0e3a6;}.cls-283{fill:#d0dca8;}.cls-284{fill:#abc138;}.cls-285{fill:#bfddbd;}.cls-286{fill:#30b8e3;}.cls-287{fill:#bcdeee;}.cls-288{fill:#a1d4ea;}.cls-289{fill:#a8be39;}.cls-290{fill:#bbd27e;}.cls-291{fill:#38addd;}.cls-292{fill:#9fb43a;}.cls-293{fill:#a0b53b;}.cls-294{fill:#50ae50;}.cls-295{fill:#d1e3bf;}.cls-296{stroke:#9e9e9e;stroke-dasharray:4 4;}.cls-297{fill:#9e9e9e;}</style>
+  </defs>
+  <title
+     id="title6">DigitalServices_IoT</title>
+  <g
+     id="g2569"
+     transform="matrix(10.254216,0,0,10.254216,-3557.2752,-4252.1066)">
+    <rect
+       id="rect1627"
+       height="1.25"
+       width="1.25"
+       y="437.92001"
+       x="357.89001"
+       class="cls-1"
+       style="fill:#595651" />
+    <rect
+       id="rect1629"
+       height="1.25"
+       width="1.25"
+       y="436.04001"
+       x="356.64001"
+       class="cls-1"
+       style="fill:#595651" />
+    <rect
+       id="rect1631"
+       height="1.25"
+       width="1.25"
+       y="439.17001"
+       x="362.26001"
+       class="cls-1"
+       style="fill:#595651" />
+    <rect
+       id="rect1633"
+       height="1.25"
+       width="1.25"
+       y="437.92001"
+       x="364.76001"
+       class="cls-1"
+       style="fill:#595651" />
+    <path
+       id="path1635"
+       d="m 382.89,456 a 3.75,3.75 0 1 0 -3.75,-3.75 3.76,3.76 0 0 0 3.75,3.75 z m -2.4,-4.41 1,0.58 0.63,-1.08 -1,-0.59 a 2.51,2.51 0 0 1 1.15,-0.66 V 451 h 1.25 v -1.16 a 2.49,2.49 0 0 1 1.16,0.66 l -1,0.58 0.62,1.09 1,-0.58 a 2.23,2.23 0 0 1 0,1.32 l -1,-0.58 -0.62,1.09 1,0.58 a 2.41,2.41 0 0 1 -1.16,0.66 v -1.16 h -1.25 v 1.16 A 2.42,2.42 0 0 1 381.12,454 l 1,-0.58 -0.63,-1.09 -1,0.58 a 2.23,2.23 0 0 1 0,-1.32 z"
+       class="cls-1"
+       inkscape:connector-curvature="0"
+       style="fill:#595651" />
+    <path
+       id="path1637"
+       d="M 389.76,457.29 V 446 h -1.25 v -3.75 h -1.87 v -7.13 a 4.38,4.38 0 0 0 -1.41,-5.94 l -5.65,-6.31 a 4.37,4.37 0 0 0 -7.86,-1.12 l -7.28,6.91 a 3.32,3.32 0 0 0 -0.51,4.16 l -3.36,3.36 0.88,0.89 3.35,-3.35 a 3.28,3.28 0 0 0 1.91,0.63 3.25,3.25 0 0 0 2.23,-0.88 l 5.5,-5.08 a 2.8,2.8 0 0 0 0.58,0.09 l 3.51,4 c 0,0.15 0,0.3 0,0.45 a 4.29,4.29 0 0 0 0.63,2.24 v 7.13 h -1.88 V 446 H 376 v 11.25 H 364.76 V 446 h -1.25 v -1.25 h 1.25 v -1.25 h -1.31 a 3.13,3.13 0 0 0 -3.06,-2.5 h -5.63 v 2.5 h -1.25 v 1.25 h 1.25 V 446 h -1.25 v 11.25 h -1.25 v 1.25 H 391 v -1.25 z m -33.75,-15 h 4.38 a 1.89,1.89 0 0 1 1.76,1.25 H 356 Z m 0,2.5 h 6.25 V 446 H 356 Z m 7.5,6.25 h -1.25 v 1.25 h 1.25 v 5 h -8.75 v -5 H 361 V 451 h -6.25 v -3.75 h 8.75 z M 386,432.92 a 3.13,3.13 0 1 1 -3.12,-3.13 3.12,3.12 0 0 1 3.12,3.13 z m -0.62,3.58 v 5.79 h -5 v -5.79 a 4.35,4.35 0 0 0 5,0 z m -17.29,-3.91 a 2,2 0 0 1 -2.84,-0.06 2.05,2.05 0 0 1 0,-2.92 l 5.71,-5.43 a 4.38,4.38 0 0 0 2.15,3.74 z m 7.28,-5.3 a 3.13,3.13 0 1 1 3.13,-3.12 3.12,3.12 0 0 1 -3.13,3.12 z m 3.56,3.76 -2.38,-2.67 a 4.39,4.39 0 0 0 3.13,-3.46 l 3.25,3.62 h -0.05 a 4.37,4.37 0 0 0 -3.94,2.51 z m -0.43,12.49 h 8.75 V 446 h -8.75 z m 10,13.75 h -11.24 v -10 h 11.25 z"
+       class="cls-1"
+       inkscape:connector-curvature="0"
+       style="fill:#595651" />
+  </g>
+</svg>

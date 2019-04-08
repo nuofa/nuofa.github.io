@@ -1,0 +1,9 @@
+.PcbDesign {
+  background-color: white;
+  color: black;
+  padding: 3em 0 3em 0;
+}
+.PcbDesign object,
+.PcbDesign img {
+    height: 100%;
+}

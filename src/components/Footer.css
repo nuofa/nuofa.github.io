@@ -1,0 +1,10 @@
+.Footer {
+  background-color: black;
+  padding: 2em 0 2em 0;
+  color: white;
+}
+.Footer .icon {
+  color: #DDD;
+  font-size: 3em;
+  margin-left: .2em;
+}

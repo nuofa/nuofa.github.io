@@ -1,0 +1,25 @@
+.Paypalbox-green {
+  background: #3ec7c2;
+  padding-top: 2em;
+  padding-bottom: 2em;
+  text-align: center;
+}
+
+.Paypalbox-white {
+  background: white;
+  padding-top: 4em;
+  padding-bottom: 3em;
+}
+.Paypalbox-white h3 {
+  padding-top: .6em;
+  padding-bottom: .6em;
+}
+.Paypalbox-white h2 {
+  padding-top: .6em;
+}
+
+.Paypalbox-gray {
+  background: #f4f4f4;
+  padding-top: 4em;
+  padding-bottom: 4em;
+}

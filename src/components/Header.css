@@ -1,0 +1,51 @@
+.Header {
+  background-color: black;  
+}
+.Header .bg-dark {
+  background-color: black !important;
+}
+.Header ul {
+  padding: 1em 0 1em 0;
+  margin: 0;
+  display: block;
+}
+.Header li {
+  display: inline-block;
+  margin: 0;
+  padding: .4em;
+}
+.Header li a {
+  color: #DDD;
+  border-bottom: 4px solid transparent;
+  padding-bottom: .3em;
+}
+
+.Header li a:hover {
+  color: white;
+  text-decoration: none;
+  border-color: #666;
+}
+.Header li.active a {
+    color: #3ec7c2;
+  border-color: #3ec7c2;
+}
+
+.Header nav > a {
+  float: left;
+  color: white;
+  padding-top: 1em;
+}
+.Header nav > a .text-danger {
+  font-size: .4em;
+}
+@media (min-width: 768px) {
+  .Header ul {
+    text-align: right;
+  }
+}
+@media (max-width: 767.98px) {
+  .Header nav > a {
+    float: none;
+    display: block;
+  }
+}
